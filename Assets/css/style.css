@@ -33,12 +33,8 @@ body {
     
 }
 
-.section nav{
-    display: inline-block;
-    font-size: 48px;
-}
 
-.section nav {
+.section nav{
     padding-top: 15px;
     margin-right: 20px;
     float: right;
