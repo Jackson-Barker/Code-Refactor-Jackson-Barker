@@ -1,6 +1,6 @@
 # Code-Refactor-Jackson-Barker
 
-Refactor
+.html and .css refactor for Horiseon Social Solution Services.
 
 # Refactored by:
 
@@ -12,7 +12,7 @@ In this project the orginal code was refactored to meet requiments for improved 
 
 # Usage
 
-Use this site to read about the offerings from Horiseon.
+Use this site to read about the offerings from Horiseon Social Solution Services.
 
 # Screen Shot
 
